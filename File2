@@ -3,4 +3,4 @@ public class HelloWorld {
         System.out.println("Hi, this is Sweety");
     }
 }
-This will print "Hi, this is Sweety" to the console when executed.
+#This will print "Hi, this is Sweety" to the console when executed.
